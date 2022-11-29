@@ -1,1 +1,3 @@
 site_name: Sitio de José carlos
+docs_dir: 'md'
+site_dir: 'docs'
